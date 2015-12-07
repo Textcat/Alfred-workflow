@@ -1,0 +1,3 @@
+# Alfred-workflow-china
+网络上给中国用户写的workflow实在太少了，而且很多是过期和失效的，所以我想到在github上托管这样一个项目，让更多的中国用户用上
+符合需求的workflows
