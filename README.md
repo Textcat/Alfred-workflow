@@ -1,4 +1,6 @@
 # Alfred-workflow
+## BetterSnip
+一款 Alfred 扩展，可以实现 TextExpander 或者 atext 中的自定义填充文本的功能。详细用法请看 BetterSnip 文件夹中的 《实用说明》
 ##「迅雷下载」用法
 在 Alfred 中输入关键字 「thunder」然后按下回车即可，会弹出迅雷添加新下载链接的对话框。如果你的迅雷没有启动，迅雷主界面也会弹出。
 
