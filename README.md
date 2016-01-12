@@ -1,4 +1,5 @@
 # Alfred-workflow
+使用中存在任何问题，或是你有任何建议，欢迎通过邮件的形式与我反馈与交流^_^ 352285746@qq.com
 ## BetterSnip
 一款 Alfred 扩展，可以实现 TextExpander 或者 atext 中的自定义填充文本的功能。详细用法请看 BetterSnip 文件夹中的 《实用说明》
 ##「迅雷下载」用法
