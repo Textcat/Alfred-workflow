@@ -1,12 +1,15 @@
 # Alfred-workflow
 使用中存在任何问题，或是你有任何建议，欢迎通过邮件的形式与我反馈与交流^_^ 352285746@qq.com
 ##单词朗读
-OSX 系统预装的词典已经很好用了，唯一的缺憾是没有朗读单词的功能，而系统本身的语音又存在音调奇怪、发音不标准的问题。因此，我制作了这款朗读单词的 Alfred 扩展，单词的发音调用了有道的语音库来实现。此外，感谢[Say the word]（http://www.packal.org/workflow/say-word） 这款扩展的启发。
+OSX 系统预装的词典已经很好用了，唯一的缺憾是没有朗读单词的功能，而系统本身的语音又存在音调奇怪、发音不标准的问题。因此，我制作了这款朗读单词的 Alfred 扩展，单词的发音调用了有道的语音库来实现。此外，感谢
+[Say the word]（http://www.packal.org/workflow/say-word） 这款扩展的启发。
 
 使用方法：
 
 1. 在任何应用程序中选中一个单词，按下快捷键「Shift + option + s」，即可听到这个单词的发音
 2. 在 Alfred 中输入「Say + 单词」，即可听到单词的读音 
+
+
 ## BetterSnip
 一款 Alfred 扩展，可以实现 TextExpander 或者 atext 中的自定义填充文本的功能。详细用法请看 BetterSnip 文件夹中的 《实用说明》
 ##「迅雷下载」用法
