@@ -16,6 +16,7 @@ OSX 系统预装的词典已经很好用了，唯一的缺憾是没有朗读单�
 在 Alfred snip 中添加如下的 snip：
 
   ({name})[{link}]
+  
   <<<{name};{link}>>>
   
 然后：
