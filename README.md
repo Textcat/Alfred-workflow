@@ -14,8 +14,10 @@ OSX 系统预装的词典已经很好用了，唯一的缺憾是没有朗读单�
 一款 Alfred 扩展，可以实现 TextExpander 或者 atext 中的自定义填充文本的功能。详细用法请看 BetterSnip 文件夹中的 《实用说明》
 示例：
 在 Alfred snip 中添加如下的 snip：
+
   ({name})[{link}]
   <<<{name};{link}>>>
+  
 然后：
 ![bsnipv2](bsnip v2.gif)
 
