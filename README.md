@@ -1,5 +1,7 @@
 # Alfred-workflow
-使用中存在任何问题，或是你有任何建议，欢迎通过邮件的形式与我反馈与交流^_^ 352285746@qq.com
+使用中存在任何问题，或是你有任何建议，欢迎通过邮件的形式与我反馈与交流 luiyezheng@foxmail.com。同样欢迎 contribute，我一个人实在有些力不从心。
+##没有需要的 workflow ？（Request）
+在 Issues 提出你的需求，当有同样需求的人达到一定数量，我会尝试制作一个符合需要的 workflow。
 ##单词朗读
 OSX 系统预装的词典已经很好用了，唯一的缺憾是没有朗读单词的功能，而系统本身的语音（选中单词后，按下option + esc），又存在音调奇怪、发音不标准的问题。因此，我制作了这款朗读单词的 Alfred 扩展，单词的发音调用了有道的语音库来实现。此外，感谢
 [Say the word]（http://www.packal.org/workflow/say-word） 这款扩展的启发。
