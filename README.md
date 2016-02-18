@@ -24,6 +24,24 @@ OSX 系统预装的词典已经很好用了，唯一的缺憾是没有朗读单�
 然后：
 ![bsnipv2](bsnip v2.gif)
 
+With BetterSnip,You can easily fill in the content you defined before in a snip. And it is quite easy to use.
+
+Step 1 : add a snip like below in Alfred
+
+Hello! My Name is {Name}, I live in {Country}
+
+<<<{Name};{Country}>>>
+
+The tags can be whatever you want except {date}，{time} and {clipboard}.
+
+Step 2 : Search and choose the snip you define before in Alfred by enter keyword "hsnip"
+
+Step 3 : Enter the content then press return.
+
+Now you get what you want.
+
+
+
 ##「迅雷下载」用法
 在 Alfred 中输入关键字 「thunder」然后按下回车即可，会弹出迅雷添加新下载链接的对话框。如果你的迅雷没有启动，迅雷主界面也会弹出。
 
