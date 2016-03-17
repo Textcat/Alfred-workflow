@@ -1,5 +1,5 @@
 # Alfred-workflow
-使用中存在任何问题，或是你有任何建议，欢迎通过邮件的形式与我反馈与交流 luiyezheng@foxmail.com。同样欢迎 contribute，我一个人实在有些力不从心。
+使用中存在任何问题，或是你有任何建议，欢迎通过邮件的形式与我反馈与交流 luiyezheng@foxmail.com。同样欢迎 contribute
 ##没有需要的 workflow ？（Request）
 在 Issues 提出你的需求，当有同样需求的人达到一定数量，我会尝试制作一个符合需要的 workflow。
 ##单词朗读
